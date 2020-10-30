@@ -12,7 +12,8 @@ export const Tipo = {
   11: "Hábitos de alimentación en ",
   12: "Enseñanzas de ",
   13: "Emociones y sentimientos en ",
-  14: "Uso del color en"
+  14: "Uso del color en ",
+  15: "Los trastornos mentales de "
 }
 
 export const Cosa = {
@@ -45,7 +46,8 @@ export const Cuando = {
   10: "en Mercadona ",
   11: "en la regulación de la prostitución ",
   12: "en un centro hospitalario ",
-  13: "en el emprendimiento "
+  13: "en el emprendimiento ",
+  14: "en el tratamiento informativo en antena 3 "
 }
 
 export const Porque = {
