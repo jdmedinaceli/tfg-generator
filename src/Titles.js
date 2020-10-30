@@ -20,7 +20,7 @@ export const Cosa = {
   7: "Los Simpson ",
   8: "la bachata ",
   9: "los memes "
-  
+
 }
 
 export const Cuando = {
@@ -43,5 +43,6 @@ export const Porque = {
   5: "y su influencia en el pensamiento contemporáneo ",
   6: "en la guerra electrónica ",
   7: "y paralelo al gobierno de Putín.",
-  8: "y la hipersexualización televisiva."
+  8: "y la hipersexualización televisiva.",
+  9: "esta la cosa tela tela de chunga"
 }
