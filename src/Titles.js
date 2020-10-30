@@ -27,8 +27,7 @@ export const Cosa = {
   10: "las personas mayores ",
   11: "un niño de 5 años ",
   12: "el profesorado ",
-  13: "Forocoches "
-  
+  13: "Forocoches "  
 }
 
 export const Cuando = {
@@ -57,6 +56,17 @@ export const Porque = {
   7: "y paralelo al gobierno de Putín.",
   8: "y la hipersexualización televisiva.",
   9: ": una revisión sistemática.",
-  10: ": un análisis empírico."
+  10: ": un análisis empírico.",
   11: " y los sectores de Twitter a los que ofende."
+}
+
+export const Decian = {
+  1: "de mi que soy un delincuente",
+  2: "que estaba loca de la cabeza",
+  3: "que comía muchos cacahuetes",
+  4: "muchas cosas con poco sentido",
+  5: "era la mejor del mundo mundial",
+  6: "que nunca llegaba a tiempo",
+  7: "se podría haber hecho mejor",
+  8: "que no era suficiente"
 }
