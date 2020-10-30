@@ -20,7 +20,7 @@ export const Cosa = {
   7: "Los Simpson ",
   8: "la bachata ",
   9: "los memes "
-  
+
 }
 
 export const Cuando = {
@@ -44,4 +44,15 @@ export const Porque = {
   6: "en la guerra electrónica ",
   7: "y paralelo al gobierno de Putín.",
   8: "y la hipersexualización televisiva."
+}
+
+export const Decian = {
+  1: "de mi que soy un delincuente",
+  2: "que estaba loca de la cabeza",
+  3: "que comía muchos cacahuetes",
+  4: "muchas cosas con poco sentido",
+  5: "era la mejor del mundo mundial",
+  6: "que nunca llegaba a tiempo",
+  7: "se podría haber hecho mejor",
+  8: "que no era suficiente"
 }
