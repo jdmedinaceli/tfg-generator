@@ -7,7 +7,11 @@ export const Tipo = {
   6: "Integración de un sistema embebido para ",
   7: "Estudio sobre la creación y evolución de ",
   8: "Difractometría y porosimetría de ",
-  9: "Panorama histórico de "
+  9: "Panorama histórico de ",
+  10: "Influencia de ",
+  11: "Hábitos de alimentación en ",
+  12: "Enseñanzas de ",
+  13: "Emociones y sentimientos en "
 }
 
 export const Cosa = {
@@ -16,11 +20,14 @@ export const Cosa = {
   3: "la isla de las tentaciones ",
   4: "tu madre ",
   5: "las pelusas ",
-  6: "Picaportes ",
-  7: "Los Simpson ",
+  6: "los Picaportes ",
+  7: "Los Simpsons ",
   8: "la bachata ",
-  9: "los memes "
-
+  9: "los memes ",
+  10: "las personas mayores ",
+  11: "un niño de 5 años ",
+  12: "el profesorado ",
+  13: "Forocoches "  
 }
 
 export const Cuando = {
@@ -31,19 +38,26 @@ export const Cuando = {
   5: "en Europa Occidental ",
   6: "en un piso ",
   7: "en la Rusia Soviética ",
-  8: "mientras la represión ",
-  9: "en España "
+  8: "durante la posguerra ",
+  9: "en España ",
+  10: "en Mercadona ",
+  11: "en la regulación de la prostitución ",
+  12: "en un centro hospitalario ",
+  13: "en el emprendimiento "
 }
 
 export const Porque = {
-  1: "y sus consecuencias en las telecomunicaciones ",
-  2: "y las relaciones con la salud mental ",
-  3: "de manera diferencial ",
-  4: ": Factores determinantes.",
-  5: "y su influencia en el pensamiento contemporáneo ",
-  6: "en la guerra electrónica ",
+  1: "y sus consecuencias en las telecomunicaciones.",
+  2: "y las relaciones con la salud mental.",
+  3: "de manera diferencial.",
+  4: ": factores determinantes.",
+  5: "y su influencia en el pensamiento contemporáneo.",
+  6: "en la guerra electrónica.",
   7: "y paralelo al gobierno de Putín.",
-  8: "y la hipersexualización televisiva."
+  8: "y la hipersexualización televisiva.",
+  9: ": una revisión sistemática.",
+  10: ": un análisis empírico."
+  11: " y los sectores de Twitter a los que ofende."
 }
 
 export const Decian = {
