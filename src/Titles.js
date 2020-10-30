@@ -59,7 +59,8 @@ export const Porque = {
   8: "y la hipersexualización televisiva.",
   9: ": una revisión sistemática.",
   10: ": un análisis empírico.",
-  11: " y los sectores de Twitter a los que ofende."
+  11: " y los sectores de Twitter a los que ofende.",
+  12: "porque la cosa está tela tela de chunga."
 }
 
 export const Decian = {
