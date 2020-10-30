@@ -7,7 +7,8 @@ export const Tipo = {
   6: "Integración de un sistema embebido para ",
   7: "Estudio sobre la creación y evolución de ",
   8: "Difractometría y porosimetría de ",
-  9: "Panorama histórico de "
+  9: "Panorama histórico de ",
+  10: "El tipo de arco de los"
 }
 
 export const Cosa = {
@@ -20,7 +21,7 @@ export const Cosa = {
   7: "Los Simpson ",
   8: "la bachata ",
   9: "los memes "
-  
+
 }
 
 export const Cuando = {
