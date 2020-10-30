@@ -28,7 +28,7 @@ export const Cosa = {
   11: "un niño de 5 años ",
   12: "el profesorado ",
   13: "Forocoches ",
-  14: "los guanchisnais"
+  14: "los guanchisnais "
 
 export const Cuando = {
   1: "durante la pandemia ",
