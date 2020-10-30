@@ -11,7 +11,8 @@ export const Tipo = {
   10: "Influencia de ",
   11: "Hábitos de alimentación en ",
   12: "Enseñanzas de ",
-  13: "Emociones y sentimientos en "
+  13: "Emociones y sentimientos en ",
+  14: "Uso del color en"
 }
 
 export const Cosa = {
