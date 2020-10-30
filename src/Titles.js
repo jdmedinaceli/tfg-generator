@@ -20,7 +20,7 @@ export const Cosa = {
   7: "Los Simpson ",
   8: "la bachata ",
   9: "los memes "
-  
+
 }
 
 export const Cuando = {
@@ -32,7 +32,8 @@ export const Cuando = {
   6: "en un piso ",
   7: "en la Rusia Soviética ",
   8: "mientras la represión ",
-  9: "en España "
+  9: "en España ",
+  10: "el virus aun era noticia en antena 3"
 }
 
 export const Porque = {
