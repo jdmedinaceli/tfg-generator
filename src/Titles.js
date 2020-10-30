@@ -46,7 +46,7 @@ export const Cuando = {
   10: "en Mercadona ",
   11: "en la regulación de la prostitución ",
   12: "en un centro hospitalario ",
-  13: "en el emprendimiento "
+  13: "en el emprendimiento ",
   14: "en el tratamiento informativo en antena 3 "
 }
 
