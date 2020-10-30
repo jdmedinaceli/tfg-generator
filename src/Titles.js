@@ -19,8 +19,8 @@ export const Cosa = {
   6: "Picaportes ",
   7: "Los Simpson ",
   8: "la bachata ",
-  9: "los memes "
-  
+  9: "los memes ",
+  10: "los guanchisnais",
 }
 
 export const Cuando = {
