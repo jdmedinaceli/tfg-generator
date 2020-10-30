@@ -56,7 +56,7 @@ export const Porque = {
   7: "y paralelo al gobierno de Putín.",
   8: "y la hipersexualización televisiva.",
   9: ": una revisión sistemática.",
-  10: ": un análisis empírico."
+  10: ": un análisis empírico.",
   11: " y los sectores de Twitter a los que ofende."
 }
 
